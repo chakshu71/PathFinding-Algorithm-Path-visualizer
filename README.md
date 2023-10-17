@@ -33,7 +33,7 @@ This is the result after executing a maze generation algorithm and path-finding 
 Pretty much the same as the standard react application, so all the usual react-scripts are available to your disposal. So, over here I restricted myself to the instructions to only the essentials.
 ## 1. Clone the repository or download the zip
 ```
-git clone https://github.com/JaskaranSingh-01/Pathfinder_visualizer.git
+git clone https://github.com/chakshu71/PathFinding-Algorithm-Path-visualizer.git
 ```
 
 ## 2. Install the dependencies
